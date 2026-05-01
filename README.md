@@ -1,4 +1,4 @@
-# YT-DLP GUI
+# YT-DLP GUI V 1.0
 
 A minimal browser-based GUI for [yt-dlp](https://github.com/yt-dlp/yt-dlp). Paste a URL, pick a quality, download. Supports Twitter/X, YouTube, Instagram, Reddit, and 1800+ other sites.
 
